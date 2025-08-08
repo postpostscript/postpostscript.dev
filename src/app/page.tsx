@@ -21,6 +21,9 @@ export default function Home() {
             <li className="pe-4 border-e-2">
               <a href="https://www.linkedin.com/in/drwxr-xr-x/">LinkedIn</a>
             </li>
+            <li className="pe-4 border-e-2">
+              <a href="https://postpostscript-blog.web.val.run/">Val Town</a>
+            </li>
             <li>
               <EmailLink />
             </li>
