@@ -2,7 +2,7 @@ import { EmailLink } from "@/components/Email";
 
 export default function Home() {
   return (
-    <div className="mx-auto flex min-h-screen max-w-[40rem] flex-col gap-20 p-8 font-mono sm:p-20">
+    <div className="mx-auto flex min-h-screen max-w-[40rem] flex-col justify-center gap-20 p-8 font-mono sm:p-20">
       <main className="row-start-2 flex flex-col items-center gap-6 sm:items-start">
         <h1 className="flex text-[2.75rem] sm:w-full sm:justify-between sm:text-7xl">
           <span>Danny</span>&nbsp;<span>Wilson</span>
